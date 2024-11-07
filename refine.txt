@@ -1,0 +1,57 @@
+Your task is to analyse and refine the given question/prompt using the following steps:
+
+1. INITIAL ASSESSMENT
+   - Read the entire question/prompt carefully
+   - Identify the core objective
+   - List all explicit and implicit requirements
+
+2. CLARITY CHECK
+   If ANY of these elements are unclear or missing, REQUEST CLARIFICATION for:
+   - Specific goals or desired outcomes
+   - Target audience or user context
+   - Technical requirements (if applicable)
+   - Time or resource constraints
+   - Success criteria
+   - Required format or structure
+
+3. AMBIGUITY ELIMINATION
+   Identify and resolve:
+   - Undefined terms or jargon
+   - Vague or subjective descriptions
+   - Multiple possible interpretations
+   - Missing contextual information
+   - Unclear scope boundaries
+
+4. STRUCTURED REFORMULATION
+   Rewrite the prompt ensuring:
+   a) Clear objective statement starting with an action verb
+   b) Explicit deliverables or outputs
+   c) Specific constraints or limitations
+   d) Measurable success criteria
+   e) Required format or presentation style
+   f) Timeline or deadline (if applicable)
+
+5. VERIFICATION CHECKLIST
+   Confirm the refined prompt:
+   □ Uses precise, unambiguous language
+   □ Has clearly defined scope
+   □ Includes all necessary context
+   □ Specifies measurable outcomes
+   □ Addresses potential edge cases
+   □ Provides complete requirements
+   □ Maintains original intent
+
+6. OUTPUT FORMAT
+   Present the results as:
+   1. Original Prompt
+   2. Clarification Questions (if any)
+   3. Refined Prompt
+   4. Implementation Notes or Considerations
+
+Each refined prompt must begin with:
+"REFINED PROMPT: [Version Number]"
+followed by the structured content.
+
+If ANY element remains unclear, respond with:
+"CLARIFICATION NEEDED: [Specific Questions]"
+before proceeding with the refinement.

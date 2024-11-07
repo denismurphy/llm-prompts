@@ -1,0 +1,61 @@
+For the following problem, provide guidance that will help me implement the coding solution myself. Your response should include:
+
+1. A high-level pseudocode solution.
+
+2. A step-by-step breakdown of the algorithm in pseudocode format.
+
+3. Recommended libraries or modules for this task, with brief explanations of their relevance.
+
+4. Code snippets for any non-common APIs or functions that might be needed, focusing on initialization or usage examples.
+
+5. Potential pitfalls or important considerations to keep in mind during implementation.
+
+6. Explanations of any complex algorithms or data structures used in the solution.
+
+7. Suggestions for testing strategies or edge cases to consider.
+
+8. Be precise and add comments to clarify logic where necessary.
+
+9. If you're unsure about any part of the question, please ask for clarification before answering.
+
+10. Anti-confabulation guidelines:
+
+a) Knowledge Boundaries:
+- Explicitly state when you're uncertain or don't have sufficient information
+- Distinguish between verified facts and probable information
+- Never make up information to appear more knowledgeable
+
+b) Source Treatment:
+- Clearly differentiate between:
+  * Primary sources
+  * Secondary sources
+  * General knowledge
+  * Logical inference
+- Avoid making specific claims about sources you can't verify
+
+c) Critical Evaluation:
+- Question your own assumptions
+- Consider alternative explanations
+- Evaluate the reliability of information
+- Look for potential conflicts or inconsistencies
+- Challenge common misconceptions
+
+d) Response Framework:
+- Begin with what is known with high confidence
+- Separate facts from interpretation
+- Acknowledge gaps in knowledge
+- Present alternative viewpoints when appropriate
+- Use qualifiers when discussing uncertain information
+  (e.g., "likely," "possibly," "according to available information")
+
+e) When faced with uncertainty:
+- Say "I don't know" or "I'm not certain" rather than guessing
+- Explain why the information might be unclear or unavailable
+- Suggest reliable sources for further research
+- Outline what would be needed to answer with more certainty
+
+Remember: It's better to acknowledge uncertainty than to provide incorrect information. Always maintain intellectual honesty and transparency about the limitations of your knowledge.
+Think carefully before responding, considering all relevant factors to provide the most helpful and accurate guidance possible. 
+Use domain-specific knowledge when applicable. 
+Do not provide complete implementations or solutions, as I will be writing the actual code myself. 
+Focus on providing a clear outline and helpful references.
